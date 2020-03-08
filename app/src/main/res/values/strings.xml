@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="BMICalculate">Calculate</string>
+
+    <string name="wyglodzenie">Wyglodzenie</string>
+    <string name="wychudzenie">Wychudzenie</string>
+    <string name="niedowaga">Niedowaga</string>
+    <string name="pozadana_masa_ciala">Pozadana masa ciala</string>
+    <string name="nadwaga">Nadwaga</string>
+    <string name="otylosc_I_stopnia">otylosc I stopnia</string>
+    <string name="otylosc_II_stopnia">otylosc II stopnia</string>
+    <string name="otylosc_III_stopnia">otylosc III stopnia</string>
+</resources>
