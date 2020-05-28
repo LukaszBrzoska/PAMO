@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gender">
+        <item>Mężczyzna</item>
+        <item>Kobieta</item>
+    </string-array>
+
+    <string-array name="questions">
+        <item>Dlaczego w nazwie wirusa występuje część "korona"</item>
+        <item>Od jakiego zwierzęcia prawdopodobnie pochodzi Koronawirus</item>
+        <item>Jak brzmi poprawna nazwa nowego koronawirusa</item>
+        <item>Ile powinno trwać właściwe mycie rąk</item>
+        <item>Jakie objawy daje zakażenie koronawirusem?</item>
+    </string-array>
+
+    <string-array name="Answers1Question">
+        <item>Pierwszym zakażonym był król</item>
+        <item>Wyodrębniono go z rośliny - wilczomlecza, czyli korony cierniowej</item>
+        <item>cząsteczki wirusa są otoczone strukturą w formie pierścienia</item>
+        <item>żadne z powyższych</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="Answers2Question">
+        <item>Nietoperza</item>
+        <item>Kota</item>
+        <item>Psa</item>
+        <item>Szczura</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="Answers3Question">
+        <item>nCoV-2019</item>
+        <item>SARS-CoV-2</item>
+        <item>Covid-19</item>
+        <item>SARS-Covid-19</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="Answers4Question">
+        <item>10 sekund</item>
+        <item>2 minuty</item>
+        <item>tyle, co nasza ulubiona piosenka</item>
+        <item>20 sekund</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="Answers5Question">
+        <item>ból mięśni, zatwardzenie, gorączka</item>
+        <item>krosty na ciele</item>
+        <item>ból brzucha, biegunka</item>
+        <item>kaszel, duszności, gorączka</item>
+        <item>4</item>
+    </string-array>
+</resources>
